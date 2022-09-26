@@ -4,8 +4,8 @@ readme = open("./README.md", "r")
 
 
 setup(
-    name='CircuitoProgram',
-    packages=['CircuitoProgram'],  # this must be the same as the name above
+    name='CircuitoProgramacion2',
+    packages=['CircuitoProgramacion2'],  # this must be the same as the name above
     version='0.1',
     description='Esta es la descripcion de mi paquete',
     long_description=readme.read(),
